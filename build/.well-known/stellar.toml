@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GA2J2UIOORZFQ77NSBMEEWXLPW7OCC24MW2QIGIZJNVUAFWNLVOSHQCF"
+"GD2OU2KKK65V5FXMIPQ2L3KJGTHJV4WDACVUHQDRYEMO3QVXTIKH7BCH"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Cryptocurrency"
-ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="TRON is a Blockchain with a cryptocurrency native to the system, known as TRX. Justin Sun founded the cryptocurrency in 2017."
-ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/X3zWgxL/tronchain.png"
-ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
+ORG_NAME="StellarSwap"
+ORG_URL="https://www.stellarswap.org"
+ORG_DESCRIPTION="Stellarswap is a global exchange board for all Stellar token and cryptocurrencies (coins). Easy sign up, easy trading."
+ORG_TWITTER="@StellarSwap"
+ORG_LOGO="https://i.ibb.co/9hy6V0R/stellarswap.jpg"
+ORG_OFFICIAL_EMAIL="stellarswap@gmail.com"
 
 
 [[CURRENCIES]]
-code="TronChain"
-issuer="GA2J2UIOORZFQ77NSBMEEWXLPW7OCC24MW2QIGIZJNVUAFWNLVOSHQCF"
+code="StellarSwap"
+issuer="GD2OU2KKK65V5FXMIPQ2L3KJGTHJV4WDACVUHQDRYEMO3QVXTIKH7BCH"
 anchor_asset="false"
-name="TronChain"
-desc="TRON is a Blockchain with a cryptocurrency native to the system, known as TRX. Justin Sun founded the cryptocurrency in 2017."
-image="https://i.ibb.co/X3zWgxL/tronchain.png"
-fixed_number=10000000
-max_number=10000000
+name="Stellar Swap"
+desc="Stellarswap is a global exchange board for all Stellar token and cryptocurrencies (coins). Easy sign up, easy trading."
+image="https://i.ibb.co/9hy6V0R/stellarswap.jpg"
+fixed_number=100000000
+max_number=100000000
 is_unlimited=false
-#TronChain was issued using the open and inclusive Stellar blockchain network.
+#StellarSwap was issued using the open and inclusive Stellar blockchain network.
